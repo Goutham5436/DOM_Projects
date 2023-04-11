@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "name" : "Dexter",
+        "company" : "Cartoon Network",
+        "age":"10",
+        "sex" : "M"
+        
+    },
+    {
+        "id": 2,
+        "name" : "Oggy",
+        "company" : "Nick",
+        "age":"20",
+        "sex" : "M"
+        
+    },
+    {
+        "id": 3,
+        "name" : "Ninja Hattori",
+        "company" : "Pogo",
+        "age":"30",
+        "sex" : "M"
+        
+    }
+]
